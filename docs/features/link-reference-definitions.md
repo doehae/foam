@@ -10,9 +10,8 @@ This feature can be disabled by default (as it's done in the foam-template) beca
 
 The following example:
 
-  ```md
-  - [[graph-visualization]]
-  ```
+[[graph-visualization]]
+
 
 ...generates the following link reference definitions to the bottom of the file:
 
