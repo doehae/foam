@@ -17,9 +17,9 @@ The following example:
 
 ...generates the following link reference definitions to the bottom of the file:
 
-  
+  ```md
   [graph-visualization]: graph-visualization "Graph Visualization"
-  
+  ```
 
 ## Configuration
 
